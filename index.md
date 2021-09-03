@@ -1,13 +1,8 @@
----
-menu:navbar-links
---- 
-
+<a href="/contacts>contacts</a>
 
 ## Getting started
 
-You can use the [editor on GitHub](https://github.com/chrisjameslennon/test-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Install it
 
 ### Markdown
 
