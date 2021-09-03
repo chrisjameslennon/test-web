@@ -1,4 +1,5 @@
 <a href="/test-web/contacts">contacts</a>
+[contacts](/test-web/contacts)
 
 ## Getting started
 
