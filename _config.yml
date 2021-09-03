@@ -15,6 +15,7 @@ author: voyzu
 
 navbar-links:
   About Me: "aboutme"
+  Contacts: "contacts"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
