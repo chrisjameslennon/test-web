@@ -1,4 +1,4 @@
-<a href="/contacts>contacts</a>
+<a href="/contacts">contacts</a>
 
 ## Getting started
 
