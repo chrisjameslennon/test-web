@@ -3,7 +3,7 @@ title: Contacts Help
 filename: contacts.md
 menu: navbar-links
 --- 
-[users](/test-web/users) | contacts | [labels](tbc) | [import](tbc) | [export](tbc) | [payment](tbc) | [settings](tbc)
+![Image](/favicon.png) [users](/test-web/users) contacts [labels](tbc) [import](tbc) [export](tbc) [payment](tbc) [settings](tbc)
 
 # Contacts
 
