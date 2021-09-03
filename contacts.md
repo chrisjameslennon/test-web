@@ -1,5 +1,7 @@
-layout: page
-title: "PAGE TITLE"
-permalink: /contacts/
+---
+title: PAGE TITLE HERE
+layout: template
+filename: contacts.md
+--- 
 
 test
