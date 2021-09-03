@@ -10,3 +10,7 @@ menu: navbar-links
 ## Overview
 
 The over view is that they are contacts
+
+Here are some images
+
+![Image](main150.png) ![Image](/main150.png) ![Image](/test-web/main150.png)
